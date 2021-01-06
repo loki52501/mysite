@@ -1,1 +1,58 @@
-# mysite
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="lo.ico" type="image/x-icon">
+    <link rel="import" href="font/Feeling Lovely.ttf">
+
+    <title>Try new</title>
+</head>
+<body>
+    <div class="top-container">
+    <img class="uc" src="cloud.png" alt="cloud">
+    <h1>I 'm Lokesh</h1>
+    <p>I'm a Programmer.</p>
+    <img class="lc" src="cloud.png" alt="cloud">
+    <img class="m" src="mountain.png" alt="mountain">
+    </div>
+    <div class="middle-container">
+        <div class="profile">
+          <img class="me" src="me.jpg" alt="me">
+          <h2>Hello.</h2>
+          <p>I am lokesh. I 💓 to read books and travel. I got a spell for my charmness. my friends call me loki.</p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h1>My Skills.</h1>
+          <div class="skill-row">
+            <img class="imgs" src="QgnO.gif" alt="skill">
+            <h3>Design and Algorithm</h3>
+            <p>I am professional in my design and got a core training in data structures.</p>
+          </div>
+          <div class="skill-row">
+            <img class="skate" src="skate.jfif" alt="skate">
+            <h3>Skating</h3>
+            <p>I love to skate and i enjoy challenges.</p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>Get In Touch</h2>
+          <h3>with me,</h3>
+          <p>If you find my work more aesthetic.</p>
+          <a class="btn" href="mailto:name@email.com">CONTACT ME</a>
+        </div>
+      </div>
+      
+      
+      <div class="bottom-container">
+        <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+        <a class="footer-link" href="https://twitter.com/">Twitter</a>
+        <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+        <p>© 2018 lks lokesh.</p>
+      </div>
+         
+</body>
+</html>
