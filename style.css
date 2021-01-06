@@ -1,0 +1,151 @@
+body{
+    margin:0;
+    text-align:center;
+    color:#66BFBF;
+    line-height:2;
+    
+}
+.uc
+{
+    position: absolute;
+    right:100px;
+    top:50px;
+}
+.lc
+{
+    position:absolute;
+left:100px;
+bottom:500px;
+}
+
+.top-container{
+    background-color:#EAF6F6;
+    position:relative;
+    padding-top:100px;
+    line-height:2;
+   
+
+}
+.top-container h1{
+    font-family:feeling-lovely;
+    font-size: 5.625em;
+}
+.top-container p{
+    font-family:coco;
+    font-size:4em; 
+    border:2px solid;
+    border-width: 10px;
+    border-color: #c7753d;
+    margin:0 25%;
+    padding: 3% 0;
+}
+.middle-container{
+    font-family: cosmith;
+    margin:100px auto;
+    width:25%;
+}
+.middle-container p{
+    margin:50px auto;
+
+    }
+.bottom-container{
+    background-color: #66BFBF;
+    font-family:lp;
+    font-size: 30px;
+    padding:50px 0 0 0;
+    margin:0;
+    border:0;
+    
+}
+.bottom-container p{
+    display:inline;
+    margin:0 520px;
+    position:relative;
+    left:500px;
+    color:#EAF6F6;
+}
+.skill-row
+{
+    width:100%;
+    margin:100px auto;
+    text-align:left;
+    line-height:2;
+}
+.m{
+    height:500px;
+
+}
+a.btn{
+    border-color:  #008196 ;
+    border-style:solid;
+    border-radius: 100%;
+    background-color: #008196;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+}
+.btn:hover
+{
+    background-color:#9d9d9d;
+}
+
+.contact-me{
+    line-height:2;
+    width:50%;
+    margin:100px auto;
+}
+  img.me
+  { border-radius: 100%;
+      width:200px;
+
+  }
+  img.imgs, img.skate{
+    border-radius: 300px;
+    width:50%;
+  }
+  img.imgs {
+     
+    float:left;
+    margin-right: 30px;;
+  }
+  img.skate
+  {
+    float:right;
+    margin-left: 30px;
+  }
+  hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color:#dadada;
+      width:50px;
+      height:20px;
+      border-width: 5px;
+
+  }
+  h3,a{
+      color: #11999E;
+  }
+  a{
+      text-decoration:none ;
+  }
+  a:hover{
+      background-color:#00917b10;
+  }
+
+  @font-face {
+    font-family: 'feeling-lovely';
+    src: url('Feeling Lovely.ttf');
+  }
+  @font-face
+  {
+      font-family:'cosmith';
+      src: url('CosmithChic.ttf');
+  }
+  @font-face{
+      font-family:'lp';
+      src: url("Love_and_Passion.ttf");
+  }
+@font-face{
+    font-family:'coco';
+    src: url("Cocogoosel.ttf");
+}
